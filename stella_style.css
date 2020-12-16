@@ -1,0 +1,81 @@
+@font-face{
+    font-family: "NotoSansCJKkr";
+    src: url("font/NotoSansCJKkr-Medium.otf");
+}
+
+@font-face{
+    font-family: "SDSwagger";
+    src: url("font/SDSwaggerTTF.ttf");
+}
+
+@font-face{
+    font-family: "NotoSansCJKkr-Regular";
+    src: url("font/NotoSansCJKkr-Regular.otf");
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    position: relative;
+    width: 95%;
+    height: 1080px;
+    margin: 0px auto;
+}
+
+#container2{
+    background-color: #1e2848;
+}
+
+#icon{
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    height: 2%;
+    width: 2%;
+}
+
+.menu{
+    font-family: "NotoSansCJKkr";
+    list-style: none;
+    text-align: right;
+    position: fixed;
+    top: 80%;
+    left: 85%;
+    z-index: 10000;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu a:link, .menu a:visited{
+    color:#ffffff;
+}
+
+.menu a:hover{
+    color: #f8cee1;
+}
+
+#cl{
+    float: right;
+    position: relative;
+    top: 20px;
+    font-family: "NotoSansCJKkr";
+    font-size: 15px;
+    color: #afafaf;
+}
+
+.title{
+    font-family: "SDSwagger";
+    color: #bfccf7;
+    font-size: 30px;
+}
+
+p{
+    color: white;
+    font-size: 18px;
+    font-family: "NotoSansCJKkr-Regular";
+}
