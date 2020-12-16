@@ -1,0 +1,199 @@
+%!Adobe-FontList 1.19
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ClementePDaq-UltraBold
+FamilyName:ClementePDaq
+StyleName:UltraBold
+FullName:ClementePDaq-UltraBold
+MenuName:ClementePDaq
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\eilee\OneDrive\바탕 화면\과제\3학년2학기\고급디자인\프로젝트\Font\ClementePDaq-UltraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71984
+FileModTime:1604845853
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,ClementePDaq-UltraBold
+NameArray:0,Win,1,ClementePDaq
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MaplestoryBold
+FamilyName:Maplestory
+StyleName:Bold
+FullName:Maplestory Bold
+MenuName:메이플스토리
+StyleBits:2
+FamilyNameNative:메이플스토리
+StyleNameNative:Bold
+FullNameNative:메이플스토리 Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\eilee\OneDrive\바탕 화면\과제\3학년2학기\고급디자인\프로젝트\Font\Maplestory Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1394116
+FileModTime:1604846081
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Maplestory Bold
+NameArray:3,Mac,4,메이플스토리 Bold
+NameArray:0,Win,1,Maplestory
+NameArray:0,Win,16,Maplestory
+NameArray:3,Win,1,메이플스토리
+NameArray:3,Win,16,메이플스토리
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansCJKkr-Bold
+FamilyName:Noto Sans CJK KR
+StyleName:Bold
+FullName:Noto Sans CJK KR Bold
+MenuName:Noto Sans CJK KR Bold
+StyleBits:0
+FamilyNameNative:Noto Sans CJK KR
+StyleNameNative:Bold
+FullNameNative:Noto Sans CJK KR Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\eilee\OneDrive\바탕 화면\과제\3학년2학기\고급디자인\프로젝트\Font\NotoSansCJKkr-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:17027920
+FileModTime:1604845939
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans CJK KR Bold
+NameArray:0,Win,1,Noto Sans CJK KR Bold
+NameArray:0,Win,16,Noto Sans CJK KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansCJKkr-DemiLight
+FamilyName:Noto Sans CJK KR
+StyleName:DemiLight
+FullName:Noto Sans CJK KR DemiLight
+MenuName:Noto Sans CJK KR DemiLight
+StyleBits:0
+FamilyNameNative:Noto Sans CJK KR
+StyleNameNative:DemiLight
+FullNameNative:Noto Sans CJK KR DemiLight
+WritingScript:Korean
+OutlineFileName:C:\Users\eilee\OneDrive\바탕 화면\과제\3학년2학기\고급디자인\프로젝트\Font\NotoSansCJKkr-DemiLight.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16397784
+FileModTime:1604845947
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans CJK KR DemiLight
+NameArray:0,Win,1,Noto Sans CJK KR DemiLight
+NameArray:0,Win,16,Noto Sans CJK KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansCJKkr-Medium
+FamilyName:Noto Sans CJK KR
+StyleName:Medium
+FullName:Noto Sans CJK KR Medium
+MenuName:Noto Sans CJK KR Medium
+StyleBits:0
+FamilyNameNative:Noto Sans CJK KR
+StyleNameNative:Medium
+FullNameNative:Noto Sans CJK KR Medium
+WritingScript:Korean
+OutlineFileName:C:\Users\eilee\OneDrive\바탕 화면\과제\3학년2학기\고급디자인\프로젝트\Font\NotoSansCJKkr-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16534292
+FileModTime:1604845958
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans CJK KR Medium
+NameArray:0,Win,1,Noto Sans CJK KR Medium
+NameArray:0,Win,16,Noto Sans CJK KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansCJKkr-Regular
+FamilyName:Noto Sans CJK KR
+StyleName:Regular
+FullName:Noto Sans CJK KR Regular
+MenuName:Noto Sans CJK KR Regular
+StyleBits:0
+FamilyNameNative:Noto Sans CJK KR
+StyleNameNative:Regular
+FullNameNative:Noto Sans CJK KR Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\eilee\OneDrive\바탕 화면\과제\3학년2학기\고급디자인\프로젝트\Font\NotoSansCJKkr-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16457008
+FileModTime:1588756181
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans CJK KR Regular
+NameArray:0,Win,1,Noto Sans CJK KR Regular
+NameArray:0,Win,16,Noto Sans CJK KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SwaggerTTF
+FamilyName:Swagger TTF
+StyleName:Regular
+FullName:Swagger TTF
+MenuName:스웨거 TTF
+StyleBits:0
+FamilyNameNative:스웨거 TTF
+StyleNameNative:Regular
+FullNameNative:스웨거 TTF
+WritingScript:Korean
+OutlineFileName:C:\Users\eilee\OneDrive\바탕 화면\과제\3학년2학기\고급디자인\프로젝트\Font\SDSwaggerTTF.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1175940
+FileModTime:1604846022
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Swagger TTF
+NameArray:3,Mac,4,스웨거 TTF
+NameArray:3,Mac,18,스웨거 TTF
+NameArray:0,Win,1,Swagger TTF
+NameArray:0,Win,16,Swagger TTF
+NameArray:3,Win,1,스웨거 TTF
+NameArray:3,Win,16,스웨거 TTF
+%EndFont
+
