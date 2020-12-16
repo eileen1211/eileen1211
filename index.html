@@ -1,13 +1,51 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="index.css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    </head>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Portfolio</title>
+</head>
 
-    <body>
-        <div id=button>1</div>
-        <div id=box>2</div>
+<body>
+    <div id="container">
+        <div id="site_title">Portfolio</div>
+        <div id="A_lazzy_day"><a href="lazzy_p.html"><img src="img/A_lazzy_day.png"></a></div>
+        <div id="almang"><a href="almang_p.html"><img src="img/almang.png"></a></div>
+        <div id="Stella_Alchemist"><img src="img/Stella.png"></div>
+    </div>
 
-    </body>
+    <script src="jquery-3.5.1.js"></script>
+    <script>
+        //커서를 올리시 백그라운드 색상이 바뀜
+        $(document).ready(function(){
+           $('#A_lazzy_day').on('mouseover', function(){
+               $("#container").css("background-color", "#2ee5a8");
+           });
+
+
+           $("#almang").on('mouseover', function(){
+               $("#container").css("background-color", "#ffdb76");
+           });
+
+           $("#Stella_Alchemist").on('mouseover', function(){
+               $("#container").css("background-color", "#bfccf7");
+           });
+
+           //커서에서 나갈시 색깔이 원래대로
+           $("#A_lazzy_day").on('mouseout', function(){
+               $("#container").css("background-color", "#d6ccb4");
+           });
+
+           $("#almang").on('mouseout', function(){
+               $("#container").css("background-color", "#d6ccb4");
+           });
+
+           $("#Stella_Alchemist").on('mouseout', function(){
+               $("#container").css("background-color", "#d6ccb4");
+           });
+        });
+    </script>
+</body>
+    
 </html>
