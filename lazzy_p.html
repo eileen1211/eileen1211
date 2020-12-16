@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="lazzy_style.css">
+    <link rel="stylesheet" href="animate.css-main/animate.css">
+</head>
+
+<body>
+    <div id="container">
+      <ul class="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="lazzy_p.html">A lazzy day</a></li>
+        <li><a href="almang_p.html">올망졸망</a></li>
+        <li><div id="stella">Stella Alchemist</div></li>
+      </ul>
+
+      <div id="icon"><img src="icon/home.svg"></div>
+      <div id="cl">Illustration</div>
+      <center>
+      <div id="title">
+        <div class="animate__animated animate__flip animate__fast">A</div> 
+        <div class="animate__animated animate__flip animate__fast">l</div><div class="animate__animated animate__flip animate__fast">a</div><div class="animate__animated animate__flip animate__fast">z</div><div class="animate__animated animate__flip animate__fast">z</div><div class="animate__animated animate__flip animate__fast">y</div>
+        <div class="animate__animated animate__flip animate__fast">d</div><div class="animate__animated animate__flip animate__fast">a</div><div class="animate__animated animate__flip animate__fast">y</div>
+      </div>
+      <div id="sub_T">
+        <div class="animate__animated animate__flip animate__fast">느</div><div class="animate__animated animate__flip animate__fast">긋</div><div class="animate__animated animate__flip animate__fast">한</div>
+        <div class="animate__animated animate__flip animate__fast">보</div><div class="animate__animated animate__flip animate__fast">들</div><div class="animate__animated animate__flip animate__fast">이</div><div class="animate__animated animate__flip animate__fast">의</div>
+        <div class="animate__animated animate__flip animate__fast">일</div><div class="animate__animated animate__flip animate__fast">상</div>
+      </div>
+      <div class="main">이제 곧 추운 겨울이 되어가네요.</div>
+      <div class="main">앙고라 토끼인 보들이는 추위를 견디면서 지내고 있어요.</div>
+      <div class="main">그녀는 평상시에 무엇을 하면서 지내는 걸까요?</div>
+      <div class="main">느긋하게 커피 한 잔?</div>
+      <div class="main">아니면 여유롭게 독서라도 즐기는 걸까요?</div>
+      
+      </center>
+    </div>
+   
+  
+    <div id="ill">
+      <div class="a">
+        <div class="slide-bottom" id="img1"><img src="img/밥먹기.jpg"></div>
+        <div class="slide-bottom" id="img2"><img src="img/빗질.jpg"></div>
+      </div>
+      <div class="a">
+        <div class="slide-bottom" id="img3"><img src="img/잠자기.jpg"></div>
+        <div class="slide-bottom" id="img4"><img src="img/독서.jpg"></div>
+      </div>
+      <div class="a">
+        <div class="slide-bottom" id="img5"><img src="img/일러스트5_폰트.jpg"></div>
+        <div class="slide-bottom" id="img6"><img src="img/커피.jpg"></div>
+      </div>
+    </div>
+  
+    <script src="jquery-3.5.1.js"></script>
+    <script src="jquery-fadethis-master/src/jquery.fadethis.js"></script>
+    <script src="textillate-master/jquery.textillate.js"></script>
+    <script src="Lettering.js-master/jquery.lettering.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $(window).fadeThis({speed: 1000, distance: 80, reverse:false});
+    });
+    
+    $(function(){
+      $(".main").textillate({autoStart: true,
+        in:{effect: "flipInX", delayScale: 1, delay: 60, sync: false,  shuffle: false,  reverse: false }
+      });
+    });
+  
+  </script>
+</body>
+</html>
