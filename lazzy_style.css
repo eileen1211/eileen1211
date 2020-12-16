@@ -1,0 +1,176 @@
+@font-face{
+    font-family: 'ClementePDaq';
+    src: url("font/ClementePDaq-UltraBold.ttf");
+    src: url("font/ClementePDaq-UltraBold.ttf?#site_title")format("truetype");
+}
+
+@font-face{
+    font-family: "SDSwagger";
+    src: url("font/SDSwaggerTTF.ttf");
+}
+
+@font-face{
+    font-family: "NotoSansCJKkr";
+    src: url("font/NotoSansCJKkr-Medium.otf");
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    position: relative;
+    width: 95%;
+    height: 980px;
+    margin: 0px auto;
+}
+
+img{
+    max-width: 100%;
+}
+
+#icon{
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    height: 2%;
+    width: 2%;
+}
+
+#title{
+    position: relative;
+    font-family: "ClementePDaq";
+    font-size: 90px;
+    color: #2ee5a8;
+    margin-top: 150px;
+
+}
+
+#sub_T{
+    position: relative;
+    font-family: "SDSwagger", "스웨거ttf", "스웨거";
+    font-size: 25px;
+    color: #f19bc2;
+    left: 205px;
+
+}
+
+.main{
+    position: relative;
+    font-family: 'NotoSansCJKkr';
+    font-size: 20px;
+    top: 30px;
+    
+}
+
+#ill{
+    position: absolute;
+    background-color: #2ee5a8;
+    width: 100%;
+    height: 1800px;
+    margin: 0 auto;
+    
+}
+
+.menu{
+    font-family: "NotoSansCJKkr";
+    list-style: none;
+    text-align: right;
+    position: fixed;
+    top: 80%;
+    left: 85%;
+    z-index: 10000;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu a:link, .menu a:visited{
+    color:#552a31;
+}
+
+.menu a:hover{
+    color: #f8cee1;
+}
+
+#cl{
+    float: right;
+    position: relative;
+    top: 20px;
+    font-family: "NotoSansCJKkr";
+    font-size: 15px;
+    color: #afafaf;
+}
+
+.a{
+    display: flex;
+    margin: auto;
+}
+
+#img1{
+    position: relative;
+    width: 600px;
+    display: inline-block;
+    top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#img2{
+    position: relative;
+    width: 600px;
+    display: inline-block;
+    top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#img3{
+    position: relative;
+    width: 600px;
+    top: 250px;
+    right: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img4{
+    position: relative;
+    width: 600px;
+    top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img5{
+    position: relative;
+    width: 600px;
+    top: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+}
+
+
+#img6{
+    position: relative;
+    width: 600px;
+    top: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+}
+
+#stella{
+    color: #552a31;
+}
