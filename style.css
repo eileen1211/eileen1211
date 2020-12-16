@@ -1,0 +1,51 @@
+@font-face{
+    font-family: 'ClementePDaq';
+    src: url("font/ClementePDaq-UltraBold.ttf");
+    src: url("font/ClementePDaq-UltraBold.ttf?#site_title")format("truetype");
+}
+
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
+#container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #d6ccb4;
+}
+
+#site_title{
+    position: absolute;
+    font-size: 14em;
+    font-family: "ClementePDaq", UltraBold;
+    font-style: normal;
+    color: white;
+    top: 35%;
+    left: 12%;
+}
+
+img{
+    max-width: 100%;
+}
+
+#A_lazzy_day{
+    position: absolute;
+    width: 14.4em;
+    top: 11%;
+    left: 18%;
+}
+
+#Stella_Alchemist{
+    position: absolute;
+    width: 21.9em;
+    top: 18%;
+    left: 67%;
+}
+
+#almang{
+    position: absolute;
+    width: 18.75em;
+    top: 63%;
+    left: 33%;
+}
